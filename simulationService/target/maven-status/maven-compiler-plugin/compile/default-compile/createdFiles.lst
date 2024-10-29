@@ -1,0 +1,8 @@
+com\capstone\simulationService\BodyState.class
+com\capstone\simulationService\SimulationController.class
+com\capstone\simulationService\SimulationResults.class
+com\capstone\simulationService\SimulationService.class
+com\capstone\simulationService\SimulationEngine.class
+com\capstone\simulationService\SimulationResultsRepository.class
+com\capstone\simulationService\SimulationParameters.class
+com\capstone\simulationService\SimulationServiceApplication.class
